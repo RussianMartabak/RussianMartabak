@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=russianmartabak&label=Profile%20views&color=0e75b6&style=flat" alt="russianmartabak" /> </p>
 
-- 🌱 I’m currently learning **Vue.js, Vuetify Material UI Framework**
+- 🌱 I’m currently learning **Phaser.js, Vue.js, Vuetify Material UI Framework**
 
 - 📫 How to reach me **zakyabdurrahman10@gmail.com**
 
