@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Zaky Abdurrahman</h1>
-<h3 align="center">A passionate web developer from Indonesia. I have worked on many personal projects but at the moment I take frontend development as my focus</h3>
+<h3 align="center">A passionate self-taught programmer from Indonesia. I have worked on many personal projects but at the moment I take frontend development as my focus</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=russianmartabak&label=Profile%20views&color=0e75b6&style=flat" alt="russianmartabak" /> </p>
 
-- 🌱 I’m currently learning **Phaser.js, Vue.js, Vuetify Material UI Framework**
+- 🌱 I’m currently learning **Artificial Intelligence, Vue.js, Vuetify Material UI Framework**
 
 - 📫 How to reach me **zakyabdurrahman10@gmail.com**
 
